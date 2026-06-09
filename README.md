@@ -26,5 +26,7 @@ Project Workflow
 Data Collection → Data Cleaning → Data Analysis → Dashboard Development → Insight Generation → Business Recommendations.
 
 >> Here Is Dashboard Example
-![Uploading Ola_RideCancellation_analysis_Page-1.png…]()
+
+<img width="1320" height="744" alt="Ola_RideCancellation_analysis_Page-1" src="https://github.com/user-attachments/assets/c1b7813e-1965-4919-a1ab-942fdb0e2375" />
+
 
